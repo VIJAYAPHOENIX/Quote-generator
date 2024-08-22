@@ -78,7 +78,8 @@ button:active{
   @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
-  }@media screen and (max-width: 1000px){
+  }
+@media screen and (max-width: 1000px){
 .quote-container{
     margin: auto 10px;
 }    
